@@ -6,6 +6,6 @@
 
 '''
 pip install qiskit matplotlib
-'''
+'''python
 
 * An account in quantum-computing.ibm.com , for the API token which allows you to access the real quantum computer
