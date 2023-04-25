@@ -1,6 +1,6 @@
 * The above code gives you a basic intution on how to initialize Quantum Circuit and how to run your circuit in both simulators and a real quantum computer
 
-## Prerequisits
+## Prerequisites
 
 * Installing qiskit and matplotlib libraries
 
